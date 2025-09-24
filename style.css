@@ -1,0 +1,15 @@
+body{
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: sans-serif, Arial, Helvetica;
+}
+
+#container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#container img{
+  width:20em;
+}
